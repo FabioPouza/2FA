@@ -1,4 +1,5 @@
 
+import 'module-alias/register';
 import app from './config/express';
 import http from 'http';
 
